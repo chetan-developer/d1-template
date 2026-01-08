@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8f798279-f06b-46b1-9059-33acd25c68a6",
+			"database_name": "movieveda_prod"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
